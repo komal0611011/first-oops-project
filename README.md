@@ -30,7 +30,7 @@ Feel free to **fork**, **clone**, or **use** this for your own learning or revis
 
 ---
 
-## 💡 Sample Code: Employee & Developer (with Inheritance)
+## 💡 Code: Employee & Developer (with Inheritance)
 
 ```python
 # Create a class Employee:
